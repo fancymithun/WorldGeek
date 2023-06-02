@@ -34,9 +34,3 @@ Thank you for taking the time to contribute to our project. Please take a moment
   * `chore`: use this when you're adding new links/resources AND when making any small changes
   (ex. chore: added *resource_name* in *subcategory* *category* )
 If you need more tips, check out [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-
---- 
-## Remarks ✅
-
-- If something is missing here, or you feel something is not well described, either create a PR, [raise an issue](https://github.com/rupali-codes/LinksHub/issues), or [do a code review of the person’s PR](https://www.freecodecamp.org/news/code-review-tips/) (ensure that your review conforms to the [Code of Conduct](https://github.com/CBID2/LinksHub-my-version-/blob/main/CODE_OF_CONDUCT.md))
-
